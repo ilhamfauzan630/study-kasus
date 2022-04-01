@@ -1,0 +1,4 @@
+==============Slip Pembayaran=============
+pesanan : Ayam goreng
+Jumlah pesanan 4
+total bayar = 74800=============Terima Kasih=================
